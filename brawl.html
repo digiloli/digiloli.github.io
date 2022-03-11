@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-		<title>Digiloli - Lolis</title>
+		<title>Brawl Picker</title>
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
 	<body>
@@ -14,14 +14,17 @@
 		<div class='navbar'>
 			<div class='navbar-item'><a href='index.html'>Home</a></div>
 			<div class='navbar-item'><a href='classes.html'>Classes</a></div>
-			<div class='navbar-item current-navbar-item'><a href='lolis.html'>Lolis</a></div>
+			<div class='navbar-item'><a href='lolis.html'>Lolis</a></div>
 			<div class='navbar-item'><a href='lolijinha.html'>Lolijinha</a></div>
 			<div class='navbar-item'><a href='comandos.html'>Comandos</a></div>
 		</div>
-		<div id='select-loli-container'>
-			<select id='select-loli' onchange="DisplayLoli()"><option value="loli0">Selecione uma loli</option></select>
+		<div class='select-hero-container'>
+			<select id='select-hero-1' onchange="DisplayHero()"><option value="hero1-none">Selecione um herói</option></select>
 		</div>
-		<div id='loli-result'></div>
+		<div class='select-hero-container'>
+			<select id='select-hero-2' onchange="DisplayHero()"><option value="hero2-none">Selecione um herói</option></select>
+		</div>
+		<div id='hero-result'></div>
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 </html>

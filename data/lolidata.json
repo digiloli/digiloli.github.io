@@ -148,7 +148,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "yukimichi",
@@ -158,17 +159,18 @@
     "corDoCabelo": "Loiro",
     "corDoOlho": "Rosa",
     "classe": "Royal Guard",
-    "patk": 1075,
-    "matk": 921,
-    "spd": 1038,
-    "pet": "Gatin",
+    "patk": 1201,
+    "matk": 1038,
+    "spd": 1182,
+    "pet": "Lolizinha",
     "champion": 1,
     "lvl": 4,
     "path": 16,
     "name": "Eiko",
     "esposa": 2,
     "casada": 1,
-    "hlt": 135
+    "hlt": 178,
+    "lolizinha": 0
   },
   {
     "username": "rambinozinho",
@@ -178,9 +180,9 @@
     "corDoCabelo": "Ruivo",
     "corDoOlho": "Vermelho",
     "classe": "Demonlord-Templar",
-    "patk": 679,
-    "matk": 695,
-    "spd": 690,
+    "patk": 898,
+    "matk": 878,
+    "spd": 882,
     "pet": "Mahoraga",
     "champion": 1,
     "lvl": 4,
@@ -188,7 +190,8 @@
     "name": "Anya",
     "esposa": 1,
     "casada": 1,
-    "hlt": 28
+    "hlt": 54,
+    "lolizinha": -1
   },
   {
     "username": "rangaanarkista",
@@ -198,9 +201,9 @@
     "corDoCabelo": "Castanho",
     "corDoOlho": "Preto",
     "classe": "Demonlord-Archmage",
-    "patk": 338,
-    "matk": 1211,
-    "spd": 459,
+    "patk": 368,
+    "matk": 1235,
+    "spd": 501,
     "pet": "Cachorrin",
     "champion": 1,
     "lvl": 4,
@@ -208,7 +211,8 @@
     "name": "Hina",
     "esposa": 10,
     "casada": 1,
-    "hlt": 81
+    "hlt": 100,
+    "lolizinha": -1
   },
   {
     "username": "main_kagura",
@@ -228,7 +232,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "foxfreakk",
@@ -248,7 +253,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "anarkiaazul",
@@ -259,7 +265,7 @@
     "corDoOlho": "Castanho claro",
     "classe": "Witch",
     "patk": 41,
-    "matk": 363,
+    "matk": 367,
     "spd": 81,
     "pet": "Tempest star wolf",
     "champion": 0,
@@ -268,7 +274,8 @@
     "name": "Abigail",
     "esposa": 51,
     "casada": 1,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "maouoverlord",
@@ -288,7 +295,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "onlyskinny",
@@ -299,8 +307,8 @@
     "corDoOlho": "Preto",
     "classe": "Maga",
     "patk": 15,
-    "matk": 69,
-    "spd": 9,
+    "matk": 81,
+    "spd": 13,
     "pet": "Morceguin",
     "champion": 0,
     "lvl": 2,
@@ -308,7 +316,8 @@
     "name": "Vampirinha",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "benedettaxd",
@@ -320,7 +329,7 @@
     "classe": "Novata",
     "patk": 7,
     "matk": 6,
-    "spd": 5,
+    "spd": 7,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 1,
@@ -328,7 +337,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "josias_ancestral",
@@ -338,9 +348,9 @@
     "corDoCabelo": "Loiro",
     "corDoOlho": "Verde",
     "classe": "Assassin",
-    "patk": 202,
-    "matk": 101,
-    "spd": 761,
+    "patk": 205,
+    "matk": 103,
+    "spd": 822,
     "pet": "Dragãozin",
     "champion": 0,
     "lvl": 3,
@@ -348,7 +358,8 @@
     "name": "Belze Bolt",
     "esposa": 3,
     "casada": 1,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "pedroaktt",
@@ -358,9 +369,9 @@
     "corDoCabelo": "Vermelho",
     "corDoOlho": "Roxo",
     "classe": "Archmage",
-    "patk": 38,
-    "matk": 150,
-    "spd": 67,
+    "patk": 42,
+    "matk": 158,
+    "spd": 76,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 3,
@@ -368,7 +379,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "yukibot69",
@@ -388,7 +400,8 @@
     "name": "Miku",
     "esposa": "???",
     "casada": 2,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "1hitmut8",
@@ -408,7 +421,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "astymoba",
@@ -428,7 +442,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "paigemimi",
@@ -448,7 +463,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "gatatriste",
@@ -459,8 +475,8 @@
     "corDoOlho": "Roxo",
     "classe": "Maga",
     "patk": 12,
-    "matk": 41,
-    "spd": 16,
+    "matk": 50,
+    "spd": 18,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 2,
@@ -468,7 +484,8 @@
     "name": "Zea",
     "esposa": 44,
     "casada": 1,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "jessedy",
@@ -488,7 +505,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "bugabugal_",
@@ -508,7 +526,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "inuzin_",
@@ -519,8 +538,8 @@
     "corDoOlho": "Verde",
     "classe": "Berserker",
     "patk": 303,
-    "matk": 84,
-    "spd": 160,
+    "matk": 86,
+    "spd": 166,
     "pet": "Diabin",
     "lvl": 3,
     "champion": 1,
@@ -528,7 +547,8 @@
     "name": "Kikyo",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "cenoriita",
@@ -548,7 +568,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "xande7777",
@@ -568,7 +589,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "pedrocuimenso",
@@ -588,7 +610,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "timcoshey",
@@ -608,7 +631,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "banamikaz",
@@ -628,7 +652,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "helsing2769",
@@ -648,7 +673,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "clonwx",
@@ -668,7 +694,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "ashley_mei",
@@ -688,7 +715,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "lfdetona",
@@ -708,7 +736,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "sankindred",
@@ -728,7 +757,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "wolfanarkista",
@@ -748,7 +778,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "wolfsafadon",
@@ -768,7 +799,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "main_mathilda",
@@ -788,7 +820,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "guisiilva69",
@@ -808,7 +841,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "rafa17",
@@ -828,7 +862,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "nyxuriich",
@@ -838,9 +873,9 @@
     "corDoCabelo": "Roxo",
     "corDoOlho": "Amarelo",
     "classe": "Witch",
-    "patk": 52,
-    "matk": 341,
-    "spd": 72,
+    "patk": 56,
+    "matk": 349,
+    "spd": 78,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 3,
@@ -848,7 +883,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "jhoonplayml",
@@ -860,7 +896,7 @@
     "classe": "Maga",
     "patk": 12,
     "matk": 25,
-    "spd": 16,
+    "spd": 18,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 2,
@@ -868,7 +904,8 @@
     "name": "Bruna",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "lilith_main_sup",
@@ -888,7 +925,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "ls_k_yl",
@@ -908,7 +946,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "zander157",
@@ -928,7 +967,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "thenotorious_biggie",
@@ -938,8 +978,8 @@
     "corDoCabelo": "Azul",
     "corDoOlho": "Verde",
     "classe": "Novata",
-    "patk": 16,
-    "matk": 14,
+    "patk": 17,
+    "matk": 15,
     "spd": 18,
     "pet": "Cachorrin",
     "champion": 0,
@@ -948,7 +988,8 @@
     "name": "Marry Jhanne",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "v1n1pl4ysofc",
@@ -968,7 +1009,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "pikolina_",
@@ -988,7 +1030,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "koreanthii",
@@ -1008,7 +1051,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "taldojhones",
@@ -1018,9 +1062,9 @@
     "corDoCabelo": "Roxo",
     "corDoOlho": "Vermelho",
     "classe": "Cavaleira",
-    "patk": 112,
-    "matk": 118,
-    "spd": 117,
+    "patk": 126,
+    "matk": 158,
+    "spd": 129,
     "pet": "Fadinha",
     "champion": 0,
     "lvl": 2,
@@ -1028,7 +1072,8 @@
     "name": "Kryst",
     "esposa": 16,
     "casada": 1,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "piclesroxo",
@@ -1048,7 +1093,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "gaabrielchim",
@@ -1060,7 +1106,7 @@
     "classe": "Novata",
     "patk": 9,
     "matk": 9,
-    "spd": 10,
+    "spd": 11,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 1,
@@ -1068,7 +1114,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "pekena_loli",
@@ -1088,7 +1135,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "japajapudo",
@@ -1108,7 +1156,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "dethalesart",
@@ -1128,7 +1177,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "itstimeforstop",
@@ -1148,7 +1198,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "stefanezx",
@@ -1158,8 +1209,8 @@
     "corDoCabelo": "Rosa",
     "corDoOlho": "Preto",
     "classe": "Novata",
-    "patk": 17,
-    "matk": 12,
+    "patk": 18,
+    "matk": 14,
     "spd": 16,
     "pet": "Gatin",
     "champion": 0,
@@ -1168,7 +1219,8 @@
     "name": "Hori",
     "esposa": 6,
     "casada": 1,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "iikaruzs",
@@ -1180,7 +1232,7 @@
     "classe": "Novata",
     "patk": 8,
     "matk": 9,
-    "spd": 11,
+    "spd": 12,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 1,
@@ -1188,7 +1240,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "abutre_vermelho",
@@ -1208,7 +1261,8 @@
     "name": "Rangal",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "uudavi",
@@ -1228,7 +1282,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "naoeob1t",
@@ -1248,7 +1303,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "andrezaoon_",
@@ -1259,7 +1315,7 @@
     "corDoOlho": "Vermelho",
     "classe": "Witch",
     "patk": 34,
-    "matk": 272,
+    "matk": 284,
     "spd": 78,
     "pet": "Morceguin",
     "champion": 0,
@@ -1268,7 +1324,8 @@
     "name": "Marceline",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "grayceml",
@@ -1288,7 +1345,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "faculdadedepedreiro",
@@ -1298,8 +1356,8 @@
     "corDoCabelo": "Roxo",
     "corDoOlho": "Azul",
     "classe": "Novata",
-    "patk": 11,
-    "matk": 13,
+    "patk": 12,
+    "matk": 15,
     "spd": 13,
     "pet": "Nenhum",
     "champion": 0,
@@ -1308,7 +1366,8 @@
     "name": "Mitsuha",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "tondias_",
@@ -1328,7 +1387,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "wilduarte2",
@@ -1348,7 +1408,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "alucardcrvg",
@@ -1368,7 +1429,8 @@
     "name": "Xinforinfula",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "shampooparacareca",
@@ -1378,8 +1440,8 @@
     "corDoCabelo": "Ruivo",
     "corDoOlho": "Amarelo",
     "classe": "Novata",
-    "patk": 6,
-    "matk": 18,
+    "patk": 7,
+    "matk": 19,
     "spd": 11,
     "pet": "Nenhum",
     "champion": 0,
@@ -1388,7 +1450,8 @@
     "name": "Carecuda",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "snecromances",
@@ -1408,7 +1471,8 @@
     "name": "???",
     "esposa": "Ninguém",
     "casada": 0,
-    "hlt": 0
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "keen2_",
@@ -1418,16 +1482,18 @@
     "corDoCabelo": "Castanho",
     "corDoOlho": "Preto",
     "classe": "Maga",
-    "patk": 22,
-    "matk": 85,
-    "spd": 14,
+    "patk": 24,
+    "matk": 118,
+    "spd": 16,
     "pet": "Nenhum",
     "champion": 0,
     "lvl": 2,
     "path": 4,
     "name": "Erika",
     "esposa": "Ninguém",
-    "casada": 0
+    "casada": 0,
+    "hlt": 0,
+    "lolizinha": -1
   },
   {
     "username": "gatao_rei",
@@ -1446,6 +1512,8 @@
     "path": 1,
     "name": "???",
     "esposa": "Ninguém",
-    "casada": 0
+    "casada": 0,
+    "hlt": 0,
+    "lolizinha": -1
   }
 ]

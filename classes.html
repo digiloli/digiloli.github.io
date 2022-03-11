@@ -1,24 +1,78 @@
 <!DOCTYPE html>
 <html>
-	<head>
+	<head>		
 		<meta charset="UTF-8">
-		<!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-		<title>Digiloli - Bem-vindo!</title>
+		<title>Digiloli - Classes</title>
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
 	<body>
-		<h1 class='main-header'>DIGILOLI</h1>
-		<ul class='navbar'>
-			<li><a href='index.html'>Home</a></li>
-			<li><a href='classes.html'>Classes</a></li>
-			<li><a href='lolis.html'>Lolis</a></li>
-			<li><a href='lolijinha.html'>Lolijinha</a></li>
-			<li><a href='comandos.html'>Comandos</a></li>
-		</ul>
-		<div class='classes-img'>
-		<img src='images/LoliClassTree.png'>
+		<div class='main-header'>
+			<h1>DIGILOLI</h1>
 		</div>
-		<p class='main-text'>É, não tem muita coisa aqui por enquanto...</p>
+		<div class='navbar'>
+			<div class='navbar-item'><a href='index.html'>Home</a></div>
+			<div class='navbar-item current-navbar-item'><a href='classes.html'>Classes</a></div>
+			<div class='navbar-item'><a href='lolis.html'>Lolis</a></div>
+			<div class='navbar-item'><a href='lolijinha.html'>Lolijinha</a></div>
+			<div class='navbar-item'><a href='comandos.html'>Comandos</a></div>
+		</div>
+		<div class='classes-img'>
+		<a href='images/LoliClassTree.png'><img src='images/LoliClassTree.png'></a>
+		</div>
+		<div class='classes-text'>
+			<div class='classes-text-novata'>
+				<h3>Novata</h3>
+				<p>A classe inicial, onde todas as lolis começam! Daqui você pode escolher o caminho que quiser para sua loli. 
+				Novatas ganham apenas 1 ponto em um stat aleatório quando treinam.</p>
+			</div>
+			<div class='classes-text-gmlc'>
+				<h3>Guerreira</h3>
+				<p>Uma das promoções disponíveis para Novatas. Têm vantagem em duelos contra lolis que escolheram o caminho das Ladras, porém desvantagem contra as Magas. 
+				Quando treinam ganham 3 pontos em Ataque Físico, 2 pontos em Velocidade ou 1 ponto em Ataque Mágico (aleatoriamente). Para se tornar uma Guerreira sua loli 
+				precisa de 20 de Ataque Físico e então digitar !promover loli guerreira</p>
+				<h3>Maga</h3>
+				<p>Uma das promoções disponíveis para Novatas. Têm vantagem em duelos contra lolis que escolheram o caminho das Guerreiras, porém desvantagem contra as Ladras. 
+				Quando treinam ganham 3 pontos em Ataque Mágico, 2 pontos em Velocidade ou 1 ponto em Ataque Físico (aleatoriamente). Para se tornar uma Maga sua loli 
+				precisa de 20 de Ataque Mágico e então digitar !promover loli maga</p>
+				<h3>Ladra</h3>
+				<p>Uma das promoções disponíveis para Novatas. Têm vantagem em duelos contra lolis que escolheram o caminho das Magas, porém desvantagem contra as Guerreiras. 
+				Quando treinam ganham 3 pontos em Velocidade, 2 pontos em Ataque Físico ou 1 ponto em Ataque Mágico (aleatoriamente). Para se tornar uma Ladra sua loli 
+				precisa de 20 de Velocidade e então digitar !promover loli ladra</p>
+				<h3>Cavaleira</h3>
+				<p>Uma das promoções disponíveis para Novatas. Não possuem vantagem ou desvantagem quando duelam. São a classe que mais demora para conseguir suas promoções, 
+				mas a longo prazo, têm os melhores stats. Quando treinam ganham 2 pontos em Ataque Físico, 2 pontos em Ataque Mágico ou 2 pontos em Velocidade (aleatoriamente). 
+				Para se tornar uma Cavaleira sua loli precisa de 30 em todos os stats e então digitar !promover loli cavaleira</p>
+			</div>
+			<div class='classes-text-baat'>
+				<h3>Berserker / Crusader</h3>
+				<p>As duas especializações disponíveis para Guerreiras. Quando treinam ganham 4 pontos em Ataque Físico, 3 pontos em Velocidade ou 2 pontos em Ataque Mágico 
+				(aleatoriamente). Sua loli precisa de 120 de Ataque Físico, 300 loli₵oins e então digitar !especializar loli berserker ou !especializar loli crusader</p>
+				<h3>Archmage / Witch</h3>
+				<p>As duas especializações disponíveis para Magas. Quando treinam ganham 4 pontos em Ataque Mágico, 3 pontos em Velocidade ou 2 pontos em Ataque Físico 
+				(aleatoriamente). Sua loli precisa de 120 de Ataque Mágico, 300 loli₵oins e então digitar !especializar loli archmage ou !especializar loli witch</p>
+				<h3>Assassin / Hunter</h3>
+				<p>As duas especializações disponíveis para Ladras. Quando treinam ganham 4 pontos em Velocidade, 3 pontos em Ataque Físico ou 2 pontos em Ataque Mágico 
+				(aleatoriamente). Sua loli precisa de 120 de Velocidade, 300 loli₵oins e então digitar !especializar loli assassin ou !especializar loli hunter</p>
+				<h3>Templar / Vanguard</h3>
+				<p>As duas especializações disponíveis para Cavaleiras. Quando treinam ganham 4 pontos em Ataque Físico, 4 pontos em Ataque Mágico ou 4 pontos em Velocidade 
+				(aleatoriamente). Sua loli precisa de 160 em todos os stats, 300 loli₵oins e então digitar !especializar loli templar ou !especializar loli vanguard</p>
+			</div>
+			<div class='classes-text-dddd'>
+				<h3>Demonlord-Berserker / Paladin</h3>
+				<p>As evoluções finais de Berserker e Crusader, respectivamente. Quando treinam ganham 12 pontos em Ataque Físico, 6 pontos em Velocidade ou 3 pontos em Ataque 
+				Mágico (aleatoriamente). Sua loli precisa de 1000 de Ataque Físico, 1000 loli₵oins, vencer nosso querido YukiBot69 em um duelo e finalmente digitar !loli pacto</p>
+				<h3>Demonlord-Archmage / Warlock</h3>
+				<p>As evoluções finais de Archmage e Witch, respectivamente. Quando treinam ganham 12 pontos em Ataque Mágico, 6 pontos em Velocidade ou 3 pontos em Ataque Físico 
+				(aleatoriamente). Sua loli precisa de 1000 de Ataque Mágico, 1000 loli₵oins, vencer nosso querido YukiBot69 em um duelo e finalmente digitar !loli pacto</p>
+				<h3>Demonlord-Assassin / Sniper</h3>
+				<p>As evoluções finais de Assassin e Hunter, respectivamente. Quando treinam ganham 12 pontos em Velocidade, 6 pontos em Ataque Físico ou 3 pontos em Ataque Mágico 
+				(aleatoriamente). Sua loli precisa de 1000 de Velocidade, 1000 loli₵oins, vencer nosso querido YukiBot69 em um duelo e finalmente digitar !loli pacto</p>
+				<h3>Demonlord-Templar / Royal Guard</h3>
+				<p>As evoluções finais de Templar e Vanguard, respectivamente. Quando treinam ganham 9 pontos em Ataque Físico, 9 pontos em Ataque Mágico ou 9 pontos em Velocidade 
+				(aleatoriamente). Sua loli precisa de 600 em todos os stats, 1000 loli₵oins, vencer nosso querido YukiBot69 em um duelo e finalmente digitar !loli pacto</p>
+			</div>
+		</div>
 	</body>
 </html>
