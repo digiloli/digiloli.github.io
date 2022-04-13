@@ -159,8 +159,8 @@
     "corDoCabelo": "Loiro",
     "corDoOlho": "Rosa",
     "classe": "⭐ Ascended Royal Guard",
-    "patk": 1030,
-    "matk": 1030,
+    "patk": 1210,
+    "matk": 1120,
     "spd": 1210,
     "pet": "Lolizinha",
     "champion": 1,
@@ -169,7 +169,7 @@
     "name": "Eiko",
     "esposa": 2,
     "casada": 1,
-    "hlt": 344,
+    "hlt": 347,
     "lolizinha": 0
   },
   {
@@ -180,9 +180,9 @@
     "corDoCabelo": "Ruivo",
     "corDoOlho": "Vermelho",
     "classe": "Demonlord-Templar",
-    "patk": 1177,
-    "matk": 1166,
-    "spd": 1089,
+    "patk": 1186,
+    "matk": 1175,
+    "spd": 1098,
     "pet": "Mahoraga",
     "champion": 1,
     "lvl": 4,
@@ -190,7 +190,7 @@
     "name": "Anya",
     "esposa": 1,
     "casada": 1,
-    "hlt": 140,
+    "hlt": 143,
     "lolizinha": -1
   },
   {
